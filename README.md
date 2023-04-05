@@ -92,29 +92,29 @@ print("Size of X_test: ",len(X_test))
 
 ## OUTPUT:
 ### Dataset and Its Properties
-![](1.PNG)
+![output](1.PNG)
 
-![](2.PNG)
+![output](2.PNG)
 
-![](3.PNG)
+![output](3.PNG)
 
-![](4.PNG)
+![output](4.PNG)
 
-![](5.PNG)
+![output](5.PNG)
 
 ### Normalised Dataset
-![](6.PNG)
+![output](6.PNG)
 
 ### X and Y Column Data
-![](7.PNG)
+![output](7.PNG)
 
-![](8.PNG)
+![output](8.PNG)
 
 ### Training Data
-![](9.PNG)
+![output](9.PNG)
 
 ### Test Data
-![](10.PNG)
+![output](10.PNG)
 
 ## RESULT
 Thus, the Data preprocessing is performed over a data set successfully.
